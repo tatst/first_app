@@ -2,4 +2,4 @@
 
 This is the FIRST application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
-by [Tatsuya Toyoda](b8eansatz@gmail.com)
+by [Michael Hartl](http://michaelhartl.com/).
